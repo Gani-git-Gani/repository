@@ -10,5 +10,16 @@ public class Diff21 {
 	        System.out.println(diff21.diff21(19));
 	        System.out.println(diff21.diff21(10));
 	        System.out.println(diff21.diff21(21));
+	        System.out.println("--------------");
 	    }
+	    
+	    public boolean sleepIn(boolean weekday, boolean vacation) {
+	    	  if (!weekday || vacation) {
+	    	    return true;
+	    	  }
+	    	  
+	    	  return false;
+	    	  System.out.println("Yes it is" + sleepIn);
+	    	}
+
 }
