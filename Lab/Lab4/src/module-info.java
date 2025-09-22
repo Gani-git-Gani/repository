@@ -4,5 +4,5 @@
 /**
  * 
  */
-module javaExamples {
+module Lab4 {
 }
